@@ -33,6 +33,7 @@ export default {
     test() {
       console.log("test");
       let a = 1;
+      console.log('change')
     },
   },
 };
