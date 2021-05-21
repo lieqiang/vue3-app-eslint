@@ -30,10 +30,10 @@ export default {
     };
   },
   methods: {
-    test() {
+    test() {  
       console.log("test");
       let a = 1;
-      console.log('change')
+      // console.log('change')
     },
   },
 };
